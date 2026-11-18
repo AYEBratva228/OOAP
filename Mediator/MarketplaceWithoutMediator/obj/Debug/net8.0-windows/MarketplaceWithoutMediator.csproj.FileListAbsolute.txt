@@ -1,0 +1,16 @@
+C:\Users\sasha\source\repos\MarketplaceWithoutMediator\bin\Debug\net8.0-windows\MarketplaceWithoutMediator.exe
+C:\Users\sasha\source\repos\MarketplaceWithoutMediator\bin\Debug\net8.0-windows\MarketplaceWithoutMediator.deps.json
+C:\Users\sasha\source\repos\MarketplaceWithoutMediator\bin\Debug\net8.0-windows\MarketplaceWithoutMediator.runtimeconfig.json
+C:\Users\sasha\source\repos\MarketplaceWithoutMediator\bin\Debug\net8.0-windows\MarketplaceWithoutMediator.runtimeconfig.dev.json
+C:\Users\sasha\source\repos\MarketplaceWithoutMediator\bin\Debug\net8.0-windows\MarketplaceWithoutMediator.dll
+C:\Users\sasha\source\repos\MarketplaceWithoutMediator\bin\Debug\net8.0-windows\MarketplaceWithoutMediator.pdb
+C:\Users\sasha\source\repos\MarketplaceWithoutMediator\obj\Debug\net8.0-windows\MarketplaceWithoutMediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\MarketplaceWithoutMediator\obj\Debug\net8.0-windows\MarketplaceWithoutMediator.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\MarketplaceWithoutMediator\obj\Debug\net8.0-windows\MarketplaceWithoutMediator.AssemblyInfo.cs
+C:\Users\sasha\source\repos\MarketplaceWithoutMediator\obj\Debug\net8.0-windows\MarketplaceWithoutMediator.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\MarketplaceWithoutMediator\obj\Debug\net8.0-windows\MarketplaceWithoutMediator.dll
+C:\Users\sasha\source\repos\MarketplaceWithoutMediator\obj\Debug\net8.0-windows\refint\MarketplaceWithoutMediator.dll
+C:\Users\sasha\source\repos\MarketplaceWithoutMediator\obj\Debug\net8.0-windows\MarketplaceWithoutMediator.pdb
+C:\Users\sasha\source\repos\MarketplaceWithoutMediator\obj\Debug\net8.0-windows\MarketplaceWithoutMediator.genruntimeconfig.cache
+C:\Users\sasha\source\repos\MarketplaceWithoutMediator\obj\Debug\net8.0-windows\ref\MarketplaceWithoutMediator.dll
+C:\Users\sasha\source\repos\MarketplaceWithoutMediator\obj\Debug\net8.0-windows\Marketpl.E05A7F88.Up2Date
