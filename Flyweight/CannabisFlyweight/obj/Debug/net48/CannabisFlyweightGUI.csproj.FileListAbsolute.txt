@@ -1,0 +1,24 @@
+C:\Users\саня лох\Downloads\CannabisFlyweightGUI (1)\bin\Debug\net48\CannabisFlyweightGUI.exe.config
+C:\Users\саня лох\Downloads\CannabisFlyweightGUI (1)\bin\Debug\net48\CannabisFlyweightGUI.exe
+C:\Users\саня лох\Downloads\CannabisFlyweightGUI (1)\bin\Debug\net48\CannabisFlyweightGUI.pdb
+C:\Users\саня лох\Downloads\CannabisFlyweightGUI (1)\obj\Debug\net48\CannabisFlyweightGUI.csproj.AssemblyReference.cache
+C:\Users\саня лох\Downloads\CannabisFlyweightGUI (1)\obj\Debug\net48\CannabisFlyweightGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\саня лох\Downloads\CannabisFlyweightGUI (1)\obj\Debug\net48\CannabisFlyweightGUI.AssemblyInfoInputs.cache
+C:\Users\саня лох\Downloads\CannabisFlyweightGUI (1)\obj\Debug\net48\CannabisFlyweightGUI.AssemblyInfo.cs
+C:\Users\саня лох\Downloads\CannabisFlyweightGUI (1)\obj\Debug\net48\CannabisFlyweightGUI.csproj.CoreCompileInputs.cache
+C:\Users\саня лох\Downloads\CannabisFlyweightGUI (1)\obj\Debug\net48\CannabisFlyweightGUI.exe
+C:\Users\саня лох\Downloads\CannabisFlyweightGUI (1)\obj\Debug\net48\CannabisFlyweightGUI.pdb
+C:\Users\саня лох\Downloads\CannabisFlyweightGUI (1)\obj\Debug\net48\CannabisFlyweightGUI.MainForm.resources
+C:\Users\саня лох\Downloads\CannabisFlyweightGUI (1)\obj\Debug\net48\CannabisFlyweightGUI.csproj.GenerateResource.cache
+C:\Users\sasha\Downloads\CannabisFlyweight\bin\Debug\net48\CannabisFlyweightGUI.exe.config
+C:\Users\sasha\Downloads\CannabisFlyweight\bin\Debug\net48\CannabisFlyweightGUI.exe
+C:\Users\sasha\Downloads\CannabisFlyweight\bin\Debug\net48\CannabisFlyweightGUI.pdb
+C:\Users\sasha\Downloads\CannabisFlyweight\obj\Debug\net48\CannabisFlyweightGUI.csproj.AssemblyReference.cache
+C:\Users\sasha\Downloads\CannabisFlyweight\obj\Debug\net48\CannabisFlyweightGUI.MainForm.resources
+C:\Users\sasha\Downloads\CannabisFlyweight\obj\Debug\net48\CannabisFlyweightGUI.csproj.GenerateResource.cache
+C:\Users\sasha\Downloads\CannabisFlyweight\obj\Debug\net48\CannabisFlyweightGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\Downloads\CannabisFlyweight\obj\Debug\net48\CannabisFlyweightGUI.AssemblyInfoInputs.cache
+C:\Users\sasha\Downloads\CannabisFlyweight\obj\Debug\net48\CannabisFlyweightGUI.AssemblyInfo.cs
+C:\Users\sasha\Downloads\CannabisFlyweight\obj\Debug\net48\CannabisFlyweightGUI.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Downloads\CannabisFlyweight\obj\Debug\net48\CannabisFlyweightGUI.exe
+C:\Users\sasha\Downloads\CannabisFlyweight\obj\Debug\net48\CannabisFlyweightGUI.pdb

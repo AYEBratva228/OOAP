@@ -1,0 +1,20 @@
+C:\Users\саня лох\OneDrive\Документы\CannabisPlantNoP\obj\Debug\CannabisPlantNoP.csproj.AssemblyReference.cache
+C:\Users\саня лох\OneDrive\Документы\CannabisPlantNoP\obj\Debug\CannabisPlantNoP.Properties.Resources.resources
+C:\Users\саня лох\OneDrive\Документы\CannabisPlantNoP\obj\Debug\CannabisPlantNoP.csproj.GenerateResource.cache
+C:\Users\саня лох\OneDrive\Документы\CannabisPlantNoP\obj\Debug\CannabisPlantNoP.csproj.CoreCompileInputs.cache
+C:\Users\саня лох\OneDrive\Документы\CannabisPlantNoP\obj\Debug\CannabisPlantNoP.Form1.resources
+C:\Users\саня лох\OneDrive\Документы\CannabisPlantNoP\bin\Debug\CannabisPlantNoP.exe.config
+C:\Users\саня лох\OneDrive\Документы\CannabisPlantNoP\bin\Debug\CannabisPlantNoP.exe
+C:\Users\саня лох\OneDrive\Документы\CannabisPlantNoP\bin\Debug\CannabisPlantNoP.pdb
+C:\Users\саня лох\OneDrive\Документы\CannabisPlantNoP\obj\Debug\CannabisPlantNoP.exe
+C:\Users\саня лох\OneDrive\Документы\CannabisPlantNoP\obj\Debug\CannabisPlantNoP.pdb
+C:\Users\sasha\Downloads\CannabisPlantNoP\bin\Debug\CannabisPlantNoP.exe.config
+C:\Users\sasha\Downloads\CannabisPlantNoP\bin\Debug\CannabisPlantNoP.exe
+C:\Users\sasha\Downloads\CannabisPlantNoP\bin\Debug\CannabisPlantNoP.pdb
+C:\Users\sasha\Downloads\CannabisPlantNoP\obj\Debug\CannabisPlantNoP.csproj.AssemblyReference.cache
+C:\Users\sasha\Downloads\CannabisPlantNoP\obj\Debug\CannabisPlantNoP.Form1.resources
+C:\Users\sasha\Downloads\CannabisPlantNoP\obj\Debug\CannabisPlantNoP.Properties.Resources.resources
+C:\Users\sasha\Downloads\CannabisPlantNoP\obj\Debug\CannabisPlantNoP.csproj.GenerateResource.cache
+C:\Users\sasha\Downloads\CannabisPlantNoP\obj\Debug\CannabisPlantNoP.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Downloads\CannabisPlantNoP\obj\Debug\CannabisPlantNoP.exe
+C:\Users\sasha\Downloads\CannabisPlantNoP\obj\Debug\CannabisPlantNoP.pdb
