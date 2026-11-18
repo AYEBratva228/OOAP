@@ -1,7 +1,6 @@
 **Диаграмма классов**
 
-![Uploading image.png…]()
-
+<img width="534" height="746" alt="image" src="https://github.com/user-attachments/assets/172eb142-0946-4ab4-bbe6-9880e863fe05" />
 
 **Различия и описание проблемы**
 
