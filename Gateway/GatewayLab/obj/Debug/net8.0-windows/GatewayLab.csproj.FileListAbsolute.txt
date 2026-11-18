@@ -1,0 +1,16 @@
+C:\Users\sasha\source\repos\GatewayLab\bin\Debug\net8.0-windows\GatewayLab.exe
+C:\Users\sasha\source\repos\GatewayLab\bin\Debug\net8.0-windows\GatewayLab.deps.json
+C:\Users\sasha\source\repos\GatewayLab\bin\Debug\net8.0-windows\GatewayLab.runtimeconfig.json
+C:\Users\sasha\source\repos\GatewayLab\bin\Debug\net8.0-windows\GatewayLab.runtimeconfig.dev.json
+C:\Users\sasha\source\repos\GatewayLab\bin\Debug\net8.0-windows\GatewayLab.dll
+C:\Users\sasha\source\repos\GatewayLab\bin\Debug\net8.0-windows\GatewayLab.pdb
+C:\Users\sasha\source\repos\GatewayLab\obj\Debug\net8.0-windows\GatewayLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\GatewayLab\obj\Debug\net8.0-windows\GatewayLab.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\GatewayLab\obj\Debug\net8.0-windows\GatewayLab.AssemblyInfo.cs
+C:\Users\sasha\source\repos\GatewayLab\obj\Debug\net8.0-windows\GatewayLab.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\GatewayLab\obj\Debug\net8.0-windows\GatewayLab.dll
+C:\Users\sasha\source\repos\GatewayLab\obj\Debug\net8.0-windows\refint\GatewayLab.dll
+C:\Users\sasha\source\repos\GatewayLab\obj\Debug\net8.0-windows\GatewayLab.pdb
+C:\Users\sasha\source\repos\GatewayLab\obj\Debug\net8.0-windows\GatewayLab.genruntimeconfig.cache
+C:\Users\sasha\source\repos\GatewayLab\obj\Debug\net8.0-windows\ref\GatewayLab.dll
+C:\Users\sasha\source\repos\GatewayLab\obj\Debug\net8.0-windows\GatewayLab.csproj.Up2Date
